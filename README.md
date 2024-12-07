@@ -1,1 +1,2 @@
-Read me
+# [ Jewellery Management System]
+#
